@@ -1,1 +1,1 @@
-# Quran_App
+# Quran
